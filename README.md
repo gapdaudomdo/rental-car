@@ -2,11 +2,13 @@ RENTAL CAR
 
 
 # Home
-![29c4ad197dc3bb9de2d2](https://user-images.githubusercontent.com/93653410/201289717-8718a8c8-9b2c-47d2-8175-8c8595d74bdc.jpg)
+![5bb317aae570232e7a61](https://user-images.githubusercontent.com/93653410/201291045-e371ddd8-3a0e-4354-adec-0e687e3e794f.jpg)
+
 
 
 # Find Car
-![499fd07f07a5c1fb98b4](https://user-images.githubusercontent.com/93653410/201289758-e61242c1-6015-4d2f-b70c-10830e00a921.jpg)
+![8bd1276cd6b610e849a7](https://user-images.githubusercontent.com/93653410/201291065-9b4aac0a-5216-42c8-a153-4eae45b58f50.jpg)
+
 
 
 # About Us
