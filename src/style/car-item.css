@@ -1,0 +1,39 @@
+
+
+.car__item{
+    border: 1px solid #7c8a9735;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.car__item-info span i{
+    color: darkorange;
+    font-size: 1.1rem;
+}
+
+.car__item-btn {
+    border-radius: 0;
+    border: none;
+    outline: none;
+    background: #135ca0e7;
+    padding: 8px 0px;
+    
+    
+}
+
+.car__item-btn a{
+    text-decoration: none;
+}
+
+.car__btn-rent{
+    background: #10ba9bfc;
+}
+
+
+.car__btn-details{
+    background: #ceec4a;
+}
+
+.find__cars-left h2{
+    align-items: center;
+}

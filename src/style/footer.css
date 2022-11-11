@@ -1,0 +1,84 @@
+
+  .footer{
+    background: rgb(90, 200, 178);
+    padding-top: 50px;
+    padding-bottom: 15px;
+  }
+  
+
+  .footer__logo i{
+    color: azure;
+    font-weight: 500;
+  }
+  .footer__logo span{
+    color: azure;
+    font-weight: 500;
+  }
+
+.footer__logo__content {
+    color: rgb(255, 255, 255);
+    margin-top: 20px;
+    line-height: 25px;
+}
+
+
+
+.quick__link {
+  border: none !important;
+  background: transparent !important;
+  user-select: none;
+  font-weight: 300;
+}
+
+.quick__link a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-weight: 300;
+  transition: 0.3s;
+  transition: 0.3s;
+  
+}
+
+
+.quick__link a:hover{
+  color: chocolate;
+}
+
+
+.footer__link-title{
+  color: #fff;
+}
+
+.office__info {
+  color: #fff;
+  font-weight: 300;
+}
+
+
+.newsletter{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 12px;
+  border: 1px solid;
+  border-radius: 50px;
+  background: rgb(34, 76, 135);
+
+  
+}
+
+
+.newsletter input{
+  background: transparent;
+  color: #fff;
+  border: none;
+  outline: none;
+}
+
+.newsletter span{
+  color: #fff;
+}
+
+.footer__bottom {
+  border-top: 1px solid #000;
+}
